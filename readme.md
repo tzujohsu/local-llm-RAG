@@ -11,6 +11,10 @@ This repo is based on [local-LLM-with-RAG](https://github.com/amscotti/local-LLM
 * Chroma: A vector database for storing and retrieving embeddings
 * PyPDF: A Python library for reading and manipulating PDF files.
 
+<p align="center">
+    <img src="rag-feature.png" alt="sample data" width="650">
+</p>
+
 ### Setup
 1. Download [Ollama]() verson 0.1.26 or higher.
 2. Clone this repository to your local environment.
